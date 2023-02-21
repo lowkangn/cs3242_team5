@@ -38,9 +38,9 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Emission: 0
+    - _Emission: 2
     - _Emissive: 0
-    - _EnvironmentLight: 1.5
+    - _EnvironmentLight: 2
     - _IndexOfRefraction: 2.14
     - _ReflectionStrength: 1.75
     m_Colors:
